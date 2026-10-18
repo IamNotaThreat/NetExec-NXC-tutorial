@@ -55,15 +55,17 @@ The tutorial covers NetExec installation, help commands, SMB authentication test
 
 Video Demonstration
 
-Video URL: Add your published video link here.
+This video demonstrates NetExec (NXC) in a virtualized Active Directory lab, covering SMB enumeration and authentication testing.
+
+Watch the tutorial: https://youtu.be/INKHEQuOV-U
 
 Part I Handbook
 
-The original handbook and documentation from Part I are available in the docs/ folder of this repository.
+The original Hacker's Toolbox Project documentation from Part I is included in this repository as The Hackers Toolbox Project.docx.
 
-Screenshots and Example Files
+Screenshots
 
-Screenshots from the NetExec demonstration are available in the screenshots/ folder. Supporting example files used during the demonstration are included in the examples/ folder, if applicable.
+Screenshots from the NetExec demonstration are available in the screenshots/ folder. Supporting example files are included if applicable.
 
 Strengths and Limitations
 
