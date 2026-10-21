@@ -57,7 +57,7 @@ Video Demonstration
 
 This video demonstrates NetExec (NXC) in a virtualized Active Directory lab, covering SMB enumeration and authentication testing.
 
-Watch the tutorial: https://youtu.be/INKHEQuOV-U
+Watch the tutorial: https://youtu.be/lNKHEQuOV-U
 
 Part I Handbook
 
